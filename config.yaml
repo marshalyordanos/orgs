@@ -1,0 +1,11 @@
+app:
+  server:
+    port: 5005
+
+database:
+  host: localhost
+  port: 5433
+  user: postgres
+  password: Nutcases123#
+  dbname: stock
+  sslmode: disable
